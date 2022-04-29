@@ -1,0 +1,50 @@
+{
+    "C":{
+        "image":"",
+        "videos":["","",""],
+        "description":"",
+        "quiz":[
+            {
+                "question":"",
+                "options":[],
+                "answer":""
+            }
+        ]
+    },
+    "C++":{
+      "image": "",
+      "videos": ["", "", ""],
+      "description": "",
+      "quiz": [
+        {
+          "question": "",
+          "options": [],
+          "answer": ""
+        }
+      ]
+    },
+    "Java":{
+      "image": "",
+      "videos": ["", "", ""],
+      "description": "",
+      "quiz": [
+        {
+          "question": "",
+          "options": [],
+          "answer": ""
+        }
+      ]
+    },
+    "Python":{
+      "image": "",
+      "videos": ["", "", ""],
+      "description": "",
+      "quiz": [
+        {
+          "question": "",
+          "options": [],
+          "answer": ""
+        }
+      ]
+    }
+}
